@@ -5,7 +5,7 @@
 Clone the project
 
 ```bash
-git clone https://github.com/hunghg255/reactjs-tiptap-editor.git
+git clone https://github.com/Krutika26/upworktask.git
 ```
 
 Go to the project directory
