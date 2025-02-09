@@ -1,13 +1,5 @@
 ![App Screenshot](./screenshot/screenshot.png)
 
-## Demo
-
-[Demo](https://reactjs-tiptap-editor-playground.vercel.app/)
-
-## Documentation
-
-[Documentation](https://reactjs-tiptap-editor.vercel.app/)
-
 ## Run Locally
 
 Clone the project
